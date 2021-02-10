@@ -1,6 +1,4 @@
 var nombre;
-var apellido;
+var edad;
 
-nombre="Facundo";
-
-apellido="Ramirez";
+var datos_completos=nombre+" "+edad;
